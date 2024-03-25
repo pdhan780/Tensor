@@ -73,7 +73,7 @@ def write_tensor_to_file(tensor, file_path):
 
 
 
-# Example usage
+
 tensor1 = read_tensor_from_file('tensor1.txt')
 tensor2 = read_tensor_from_file('tensor2.txt')
 
